@@ -60,7 +60,7 @@ a:hover {
 }
 h1, h2 {
 	position:				relative;
-	right:					300px;
+	right:					-710px;
 	top:					250px;
 	width:					400px;
 	color:					#1C1C1C;
@@ -80,7 +80,7 @@ ul {
 	background:				url(/Denys_Soloshenko.github.io/images/sprites_1.png);
 	margin:					0px 0px 20px 0px;
 	position:				relative;
-	left:					950px;
+	right:					-670px;
 	top:					250px;
 	float:					left;
 	
